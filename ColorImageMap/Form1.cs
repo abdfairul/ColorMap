@@ -1,5 +1,6 @@
 // sesaje je ni
 // ini ditambah di remote
+// init ditambah dlm local
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
