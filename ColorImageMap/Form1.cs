@@ -1,5 +1,4 @@
-// ini dlm local. akan checkin feature
-// edit dlm github.
+// edit dlm github. hantu. try pull
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
