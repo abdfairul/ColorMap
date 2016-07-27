@@ -1,6 +1,5 @@
-// sesaje je ni
-// ini ditambah di remote
-// init ditambah dlm local
+// edit dlm github.
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
